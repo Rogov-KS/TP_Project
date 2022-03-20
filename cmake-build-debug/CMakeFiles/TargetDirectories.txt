@@ -1,0 +1,5 @@
+/home/kostya/MIPT/TP/PROJECT/TP_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kostya/MIPT/TP/PROJECT/TP_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kostya/MIPT/TP/PROJECT/TP_Project/cmake-build-debug/MAIN/CMakeFiles/rebuild_cache.dir
+/home/kostya/MIPT/TP/PROJECT/TP_Project/cmake-build-debug/MAIN/CMakeFiles/edit_cache.dir
+/home/kostya/MIPT/TP/PROJECT/TP_Project/cmake-build-debug/MAIN/CMakeFiles/The_age_of_conquest.dir
